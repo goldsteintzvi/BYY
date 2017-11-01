@@ -231,9 +231,16 @@ header.masthead {
       text-decoration: underline;
       color: #0085A1; }
 
+div.post-preview h3.post-subtitle {
+  font-weight: 300; 
+}
+
 @media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {
-    font-size: 36px; } }
+    font-size: 36px; }
+
+    .post-preview > h2.post-title {
+    font-size: 36px; } }  
 
 .floating-label-form-group {
   font-size: 14px;
