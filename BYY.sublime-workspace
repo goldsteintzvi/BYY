@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"Stuff",
+				"StuffNearYou"
+			],
+			[
 				"text",
 				"text-center"
 			],
@@ -16,10 +20,13 @@
 	"buffers":
 	[
 		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n\n  <head>\n\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n    <meta name=\"description\" content=\"\">\n    <meta name=\"author\" content=\"\">\n\n    <title>BYY</title>\n\n    <!-- Bootstrap core CSS -->\n    <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\">\n    <!-- <link href=\"vendor/bootstrap/css/bootstrap.css\" rel=\"stylesheet\"> -->\n    <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js\"></script>\n    <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js\"></script>\n\n    <!-- Custom fonts for this template -->\n    <link href=\"vendor/font-awesome/css/font-awesome.min.css\" rel=\"stylesheet\" type=\"text/css\">\n    <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>\n    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>\n\n    <!-- Custom styles for this template -->\n    <link href=\"css/clean-blog.css\" rel=\"stylesheet\">\n\n  </head>\n\n  <body>\n\n    <!-- Navigation -->\n    <nav class=\"navbar navbar-expand-lg navbar-light fixed-top\" id=\"mainNav\">\n      <div class=\"container\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarResponsive\" aria-controls=\"navbarResponsive\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n          Menu\n          <i class=\"fa fa-bars\"></i>\n        </button>\n        <div class=\"collapse navbar-collapse\" id=\"navbarResponsive\">\n          <ul class=\"navbar-nav ml-auto\">\n            <li class=\"nav-item\">\n              <a class=\"nav-link\" href=\"index.html\">Home</a>\n            </li>\n            <li class=\"nav-item\">\n              <a class=\"nav-link\" href=\"hakotel.html\">Yeshivot</a>\n            </li>\n            <li class=\"nav-item\">\n              <a class=\"nav-link\" href=\"index.html\">Seminaries</a>\n            </li>\n            <li class=\"nav-item\">\n              <a class=\"nav-link\" href=\"post.html\">General Israel</a>\n            </li>\n            <li class=\"nav-item\">\n              <a class=\"nav-link\" href=\"contact.html\">Contact Us</a>\n            </li>\n          </ul>\n        </div>\n      </div>\n    </nav>\n\n    <!-- Page Header -->\n    <header class=\"masthead\" style=\"background-image: url('img/WesternWall.jpg')\">\n      <div class=\"container\">\n        <div class=\"row\">\n          <div class=\"col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 mx-auto\">\n            <div class=\"site-heading\">\n              <h1>\n                <font color=\"white\">Before Your Year</font>\n              </h1>\n              <span class=\"subheading\">Get the insider's scoop on your Yeshiva or Seminary Program</span>\n            </div>\n          </div>\n        </div>\n      </div>\n    </header>\n\n    <!-- Main Content -->\n    <div class=\"container\">\n      <div class=\"row\">\n        <div class=\"col-lg-8 col-lg-offset-2 col-md-6 col-sm-10 col-sm-offset-1 mx-auto\">\n              <div class=\"post-preview\">\n                  <h2 class=\"post-title\">\n                    Try to find opportunities to learn from Rav Lifschitz.  \n                  </h2>\n                  <h3 class=\"post-subtitle\">\n                    His Hebrew is among the easiest to understand, and the content is amazing. If he has a Motzei Shabbos Shiur, try to go-he has some very nice ideas, and you'll be exposed to a new genre of Torah.\n                  </h3>\n                \n                <p class=\"post-meta\">Posted by Shimon Cohen, 5774</p>\n              </div>\n              <hr>\n        </div>\n        <div class=\"col-lg-8 col-lg-offset-2 col-md-6 col-sm-10 col-sm-offset-1 mx-auto\">\n            <div class=\"post-preview\">  \n              <h2 class=\"post-title\">\n                  Bring a good-quality overnight bag  \n              </h2>\n                <h3 class=\"post-subtitle\">\n                  You'll appreciate it every week you go out, especially on the extended weekends or trips. Think about how big the bag is, and how transportable it is. Hiking packs are great, as they're usually big and they go on your back instead of bumping against your leg every time you take a step. Wheely bags can also be good, although the Old City cobblestones will likely make their mark on the wheels.  \n                </h3>  \n                <p class=\"post-meta\">Posted by Jacob Sacks, 5775</p>\n            </div>\n            <hr>\n        </div>\n        <div class=\"col-lg-8 col-lg-offset-2 col-md-6 col-sm-10 col-sm-offset-1 mx-auto\">\n            <div class=\"post-preview\">\n               <h2 class=\"post-title\">\n                    Breakfast after Vasikin  \n                  </h2>\n                  <h3 class=\"post-subtitle\">\n                    The Lachmanyot at Ma'apeh Ne'eman, on the way towards Sha'ar Tzion, come out of the oven right around the end of Vasikin. Getting a couple of fresh rolls and a Shoko B'Sakit is the best way to finish off an all-night learning session.\n                  </h3>               \n                <p class=\"post-meta\">Posted by Tzvi Goldstein, 5771-74</p>\n            </div>\n            <hr>\n        </div>\n        <div class=\"col-lg-102 col-lg-offset-1 col-md-12 col-md-offset-2 col-sm-10 col-sm-offset-1\">\n          <!-- Pager -->\n          <div class=\"clearfix\">\n            <a class=\"btn btn-secondary float-right\" href=\"#\">Older Posts &rarr;</a>\n          </div>\n        </div>\n      </div>\n    </div>\n\n    <hr>\n\n    <!-- Footer -->\n    <footer>\n      <div class=\"container\">\n        <div class=\"row\">\n          <div class=\"col-lg-8 col-md-10 mx-auto\">\n            <ul class=\"list-inline text-center\">\n              <li class=\"list-inline-item\">\n                <a href=\"#\">\n                  <span class=\"fa-stack fa-lg\">\n                    <i class=\"fa fa-circle fa-stack-2x\"></i>\n                    <i class=\"fa fa-twitter fa-stack-1x fa-inverse\"></i>\n                  </span>\n                </a>\n              </li>\n              <li class=\"list-inline-item\">\n                <a href=\"#\">\n                  <span class=\"fa-stack fa-lg\">\n                    <i class=\"fa fa-circle fa-stack-2x\"></i>\n                    <i class=\"fa fa-facebook fa-stack-1x fa-inverse\"></i>\n                  </span>\n                </a>\n              </li>\n              <li class=\"list-inline-item\">\n                <a href=\"#\">\n                  <span class=\"fa-stack fa-lg\">\n                    <i class=\"fa fa-circle fa-stack-2x\"></i>\n                    <i class=\"fa fa-github fa-stack-1x fa-inverse\"></i>\n                  </span>\n                </a>\n              </li>\n            </ul>\n            <p class=\"copyright text-muted\">Copyright &copy; Your Website 2017</p>\n          </div>\n        </div>\n      </div>\n    </footer>\n\n    <!-- Bootstrap core JavaScript -->\n    <!-- <script src=\"vendor/jquery/jquery.min.js\"></script>\n    <script src=\"vendor/bootstrap/js/bootstrap.bundle.min.js\"></script> -->\n\n    <!-- Custom scripts for this template -->\n    <script src=\"js/clean-blog.min.js\"></script>\n\n  </body>\n\n</html>\n",
 			"file": "index.html",
+			"file_size": 7416,
+			"file_write_time": 131539599089151970,
 			"settings":
 			{
-				"buffer_size": 6891,
+				"buffer_size": 7222,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -37,7 +44,16 @@
 			"file": "hakotel.html",
 			"settings":
 			{
-				"buffer_size": 12598,
+				"buffer_size": 21624,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/clean-blog.css",
+			"settings":
+			{
+				"buffer_size": 23104,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -49,15 +65,6 @@
 				"buffer_size": 8339,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/clean-blog.css",
-			"settings":
-			{
-				"buffer_size": 22537,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
 			}
 		},
 		{
@@ -124,7 +131,7 @@
 	],
 	"find":
 	{
-		"height": 41.0
+		"height": 1278.0
 	},
 	"find_in_files":
 	{
@@ -138,6 +145,22 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"left",
+			"</a>",
+			"<a href=\"#\">",
+			"\n        \n          <div class=\"row\">\n            <div class=\"col-lg-8 col-lg-offset-2 col-md-6 col-sm-10 col-sm-offset-1 mx-auto\">\n              <div class=\"post-preview\">\n                <a href=\"post.html\">\n                  <h2 class=\"post-title\">\n                    Try to Daven Vasikin on Rosh Chodesh at the Churva Shul\n                  </h2>\n                  <h3 class=\"post-subtitle\">\n                    It's a beautiful and unique Davening\n                  </h3>\n                </a>\n                <p class=\"post-meta\">Posted by\n                  <a href=\"#\">Shimon Cohen</a>\n                  on September 24, 2017</p>\n              </div>\n              <hr>\n            </div>\n            <div class=\"col-lg-8 col-lg-offset-2 col-md-6 col-sm-10 col-sm-offset-1 mx-auto\">\n              <div class=\"post-preview\">\n                <a href=\"post.html\">\n                  <h2 class=\"post-title\">\n                    Staying in Yeshiva on 'out' Shabbosim\n                  </h2>\n                  <h3 class=\"post-subtitle\">\n                    It's a great way to make Israeli friends (and have a nice, quiet Shabbos)\n                  </h3>\n                </a>\n                <p class=\"post-meta\">Posted by\n                  <a href=\"#\">Yoni Kram</a>\n                  on September 24, 2017</p>\n              </div>\n              <hr>\n            </div>\n            \n            <div class=\"col-lg-12 col-md-12 col-sm-10 mx-auto\">\n              <!-- Pager -->\n              <div class=\"clearfix\">\n                <a class=\"btn btn-secondary float-right\" href=\"#\">Older Posts &rarr;</a>\n              </div>\n            </div>\n          </div>",
+			"<a href=\"#\">",
+			"href",
+			"<a href=\"#\"",
+			"<a href=\"#\">",
+			"<a href=\"#\"",
+			">\n",
+			"<a href=\"#\">",
+			"<a href",
+			"post-preview > a >",
+			"menu3",
+			"menu2",
+			"menu1",
 			"body",
 			"panel",
 			"4",
@@ -176,15 +199,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6891,
+						"buffer_size": 7222,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2281,
-								2281
+								3184,
+								3184
 							]
 						],
 						"settings":
@@ -194,10 +217,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 479.0,
+						"translation.y": 2018.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -224,10 +247,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 394.0,
+						"translation.y": 1964.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -236,15 +259,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 12598,
+						"buffer_size": 21624,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								10867,
-								10867
+								5300,
+								5300
 							]
 						],
 						"settings":
@@ -254,7 +277,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4700.0,
+						"translation.y": 4636.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -262,6 +285,36 @@
 				},
 				{
 					"buffer": 3,
+					"file": "css/clean-blog.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23103,
+								23103
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 27282.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
 					"file": "post.html",
 					"semi_transient": false,
 					"settings":
@@ -273,8 +326,8 @@
 						"selection":
 						[
 							[
-								2207,
-								2207
+								2554,
+								2626
 							]
 						],
 						"settings":
@@ -284,37 +337,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 206.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "css/clean-blog.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 22537,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5179,
-								5179
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 4457.0,
+						"translation.y": 1490.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -333,8 +356,8 @@
 						"selection":
 						[
 							[
-								24850,
-								24854
+								4696,
+								4700
 							]
 						],
 						"settings":
@@ -344,7 +367,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 45382.0,
+						"translation.y": 8317.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -438,7 +461,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 190.0,
+	"side_bar_width": 308.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
