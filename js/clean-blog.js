@@ -1,6 +1,8 @@
 (function($) {
   "use strict"; // Start of use strict
 
+  // $('.post-title').prepend('<i class="fa fa-quote-left post-title-pre-quote"></i>').append('<i class=" fa fa-quote-right post-title-end-quote"></i>')
+
   // Floating label headings for the contact form
   $("body").on("input propertychange", ".floating-label-form-group", function(e) {
     $(this).toggleClass("floating-label-form-group-with-value", !!$(e.target).val());

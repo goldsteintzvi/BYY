@@ -939,3 +939,26 @@ footer {
   padding-left: 0;
 }
 
+@media only screen and (min-width : 801px) {
+  .post-title::before {
+    content: "\201C";
+    font-family: Georgia, serif;
+    font-size: 60px;
+    font-weight: bold;
+    color: #666;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+  }
+
+  .post-title::after {
+    content: "\201D";
+    font-family: Georgia, serif;
+    font-size: 60px;
+    font-weight: bold;
+    color: #666;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+  }
+}
