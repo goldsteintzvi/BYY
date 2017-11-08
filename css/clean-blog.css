@@ -994,6 +994,7 @@ footer {
   text-align: center;
 }
 
-div.site-heading h1 {
+div.site-heading h1, div.post-heading h1 {
+  text-align: center;
   text-shadow: 0px 2px 8px rgba(0,0,0,0.6);
 }
