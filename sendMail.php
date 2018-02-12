@@ -1,18 +1,18 @@
 <?php
 ini_set('display_errors', 1);
 
-$fname = $_POST['name'];
+$fname = $_POST['fname'];
 $email = $_POST['email'];
-$msg = $_POST['message'];
+$msg = $_POST['msg'];
 /**
  * This example shows making an SMTP connection with authentication.
  */
 //SMTP needs accurate times, and the PHP time zone MUST be set
 //This should be done in your php.ini, but this is how to do it if you don't have access to that
 date_default_timezone_set('Etc/UTC');
-require '../PHPMailer-master/PHPMailerAutoload.php';
-require_once '../PHPMailer-master/class.phpmailer.php';
-require_once '../PHPMailer-master/class.smtp.php';
+require './PHPMailer-master/PHPMailerAutoload.php';
+require_once './PHPMailer-master/class.phpmailer.php';
+require_once './PHPMailer-master/class.smtp.php';
 //Create a new PHPMailer instance
 $mail = new PHPMailer;
 //Tell PHPMailer to use SMTP
@@ -33,7 +33,7 @@ $mail->SMTPAuth = true;
 //Username to use for SMTP authentication
 $mail->Username = "adam@moisaconsulting.com";
 //Password to use for SMTP authentication
-$mail->Password = "PASSWORD";
+$mail->Password = "Stinkerreb93";
 //Set who the message is to be sent from
 $mail->setFrom('adam@moisaconsulting.com', 'Adam Moisa');
 //Set an alternative reply-to address
