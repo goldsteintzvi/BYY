@@ -31,19 +31,19 @@ $mail->Port = 587;
 //Whether to use SMTP authentication
 $mail->SMTPAuth = true;
 //Username to use for SMTP authentication
-$mail->Username = "adam@moisaconsulting.com";
+$mail->Username = "ByyIsrael@gmail.com";
 //Password to use for SMTP authentication
-$mail->Password = "PASSWORD";
+$mail->Password = "l'toelesharabim";
 //Set who the message is to be sent from
-$mail->setFrom('adam@moisaconsulting.com', 'Adam Moisa');
+$mail->setFrom('ByyIsrael@gmail.com', 'BYY Israel');
 //Set an alternative reply-to address
-$mail->addReplyTo('adam@moisaconsulting.com', 'Adam Moisa');
+$mail->addReplyTo('ByyIsrael@gmail.com', 'BYY Israel');
 //Set who the message is to be sent to
-$mail->addAddress('adam@moisaconsulting.com', 'Adam Moisa');
+$mail->addAddress('ByyIsrael@gmail.com', 'BYY Israel');
 //Set the subject line
-$mail->Subject = 'New contact from Landing Page';
+$mail->Subject = 'New question from BYY-HaKotel';
 
-$mail->Body = "New reachout:\n\nName: {$fname}\nEmail: {$email}\nMessage: {$msg}";
+$mail->Body = "New question:\n\nName: {$fname}\nEmail: {$email}\nMessage: {$msg}";
 //send the message, check for errors
 if (!$mail->send()) {
 	echo "Mailer Error: " . $mail->ErrorInfo;
